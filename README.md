@@ -2,7 +2,7 @@
 
 ![Alumna Logo](./public/logo/alumna-logo.svg)
 
-> Student-generated Content Driven University Directory (TripAdvisor for Colleges)
+> Content-driven University Directory (TripAdvisor for Colleges)
 
 ## Running
 
