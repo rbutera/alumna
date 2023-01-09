@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="650px" height="96px" viewBox="0 0 650 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>alumna-logo</title>
+    <g id="alumna-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="650" height="96"></rect>
+        <g id="Group-10" transform="translate(-0.000000, -0.000000)">
+            <polygon id="Fill-1" fill="#E26E6E" points="106.375 95.8889 82.3535 95.8889 53.9247 44.7139 25.5096 95.8889 0 95.8889 41.1696 21.7554 53.1877 0.1289 65.9421 23.0876"></polygon>
+            <polygon id="Fill-3" fill="#E26E6E" points="146.015 0 124.757 0 124.757 95.7581 146.015 95.7581 146.015 95.76 192.343 95.76 192.343 77.336 146.015 77.336"></polygon>
+            <path d="M265.85,0 L286.799,0 L286.799,55.445 L286.799,55.445 C286.798,74.0805 274.085,89.7973 256.879,94.3943 C253.56,95.2808 250.078,95.76 246.484,95.76 C224.254,95.76 206.169,77.6739 206.169,55.4444 L206.169,55.4444 L206.169,0 L227.118,0 L227.118,55.445 L227.118,55.445 C227.118,55.4645 227.12,55.483 227.12,55.5025 C227.152,66.1545 235.825,74.8112 246.484,74.8112 C257.162,74.8112 265.85,66.1233 265.85,55.4444 L265.85,55.4444 L265.85,0 Z" id="Fill-4" fill="#E26E6E"></path>
+            <polygon id="Fill-5" fill="#E26E6E" points="387.873 28.4697 408.813 0 408.813 95.7551 387.555 95.7551 387.555 60.0806 361.31 95.76 335.066 60.0806 335.066 95.7551 313.808 95.7551 313.808 0 334.748 28.4697 361.31 64.582"></polygon>
+            <polygon id="Fill-6" fill="#E26E6E" points="503.055 0 524.313 0 524.313 95.7549 503.055 78.043"></polygon>
+            <image id="Image-7" opacity="0.760386149" x="503.3128" y="35.908124" width="21" height="60" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAA8CAYAAABig0prAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFqADAAQAAAABAAAAPAAAAACXUAT/AAABdUlEQVRYCe2X7W6DMAxFYV/v/8TdYsTxbo1dCqE/KiUSsutcnxu8tNKmaZo+2/PRnkuXQb9X4tyiPb/r565g4J/2ADUYeZfBVwMZnJMSb1Kz/PAysM0XYIynDTixvbZCug0AK1Tz0waAAShUc/aJumf5ZkVw1Ug9xtKgAgOIjdRjjLppDwwgNlKP0XUGfnTdysbW55CWb3SceO+6bRoFlhoomOZU2EBmjoaoWs1nwHfFFZLVAMao2iUHjFAFj2rsxej9EYzQBfL6WQ19jLcKjDCDZTX0HvfACDNYVkO//PHO3mMgqQEn7rnHqQFgddWcpipm2qUGmEYVas5+FTdaA2czVqHmFZi6aw1syzZ49KvrwravOaAqLvfYwCzgsUGhmkedf+bEgIndBhX4jMHdm+yBjxgwhsXgWfBhg6Pgpw3OgncNesGlwVXgjYF9nV+x5leBr//fg9cfJ2YSY8Y+iTGKMYr/CXg2fivGKHwCnoxb8caj+AOreRqXjZgsIAAAAABJRU5ErkJggg=="></image>
+            <polygon id="Fill-8" fill="#E26E6E" points="524.313 95.76 456.179 41.135 456.179 95.7549 434.921 95.7549 434.921 0 434.921 0.0001 434.921 0 524.313 71.6678"></polygon>
+            <polygon id="Fill-9" fill="#E26E6E" points="649.473 95.8889 625.451 95.8889 597.022 44.7139 568.607 95.8889 543.097 95.8889 584.267 21.7554 596.285 0.1289 609.039 23.0876"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg495115" viewBox="0 0 1024 768" height="768px" width="1024px" version="1.1">
+  <metadata id="metadata495121">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs495119"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-59b8c7ca-c0cf-4d3e-9796-c7ce7c1d838c">
+    <stop id="stop495096" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop495098" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-59b8c7ca-c0cf-4d3e-9796-c7ce7c1d838c">
+    <stop id="stop495101" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop495103" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop495105" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" style="display: none;" transform="translate(0 0)"></image>
+    <g id="logo-center" transform="translate(0 0)">
+      <image xlink:href="" id="icon_container" style="display: none;" x="0" y="0"></image>
+      <g id="slogan" style="font-style:oblique;font-weight:300;font-size:32px;line-height:1;font-family:Raleway;font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"></g>
+      <g id="title" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 11 Color Shadow';font-variant-ligatures:normal;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <g id="path495124" aria-label="A" transform="translate(0 309.20312024) translate(187.28720984999995 26.33690399999999) scale(1.33) translate(-280.38476 72)"> <path class="c1" d="M139.99072,136H121.9292l-21.375-38.47742L79.18945,136H60.00928l30.95459-55.7395L100,64l9.58984,17.26221 L139.99072,136z" transform="translate(220.37548 -136)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#a2a09a" stroke="#a2a09a"></path> </g>
+        <g id="path495126" aria-label="L" transform="translate(0 309.20312024) translate(312.04379004999987 26.20802168) scale(1.33) translate(-369.1867 72.096904)"> <polygon class="c1" points="90.57538,64 74.59162,64 74.59162,135.99854 90.57538,135.99854 90.57538,136 125.40838,136 125.40838,122.14737 90.57538,122.14737 " transform="translate(294.59508 -136.096904)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#a2a09a" stroke="#a2a09a"></polygon> </g>
+        <g id="path495128" aria-label="U" transform="translate(0 309.20312024) translate(393.4559495499999 26.20802168) scale(1.33) translate(-425.39885 72.096904)"> <path class="c1" d="M114.56104,64h15.7511v41.68799h-0.00024c-0.00024,14.0116-9.55884,25.82874-22.49622,29.28516 c-2.495,0.6665-5.11365,1.02686-7.8158,1.02686c-16.71387,0-30.31201-13.59863-30.31201-30.3125h0.00024V64h15.75098v41.68799 h-0.00024c0,0.01465,0.0022,0.02856,0.0022,0.04321c0.02405,8.00903,6.5448,14.51782,14.55884,14.51782 c8.02881,0,14.56104-6.53223,14.56104-14.56152h0.00012V64z" transform="translate(355.71098 -136.096904)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#a2a09a" stroke="#a2a09a"></path> </g>
+        <g id="path495130" aria-label="M" transform="translate(0 309.20312024) translate(501.09501745 26.20802168) scale(1.33) translate(-501.33048 72.096904)"> <path class="c1" d="M119.97192,85.40576L135.71606,64v0.00171v23.44214v48.55249h-15.9834v-26.823L100,136l-19.73267-26.82666 v26.823h-15.9834V87.44385V64.00171V64l15.74414,21.40576L100,112.55786L119.97192,85.40576z" transform="translate(437.04655 -136.096904)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#a2a09a" stroke="#a2a09a"></path> </g>
+        <g id="path495132" aria-label="^N" transform="translate(0 309.20312024) translate(622.20814245 26.20802168) scale(1.33) translate(-587.39298 72.096904)"> <path class="c1" d="M117.62247,64h15.98332v71.99617l-15.98332-13.31722V64z" transform="translate(520.9991 -136.096904)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#a2a09a" stroke="#a2a09a"></path> <linearGradient id="66c36fd9-5321-4566-808c-1b4e5a4c293e" gradientUnits="userSpaceOnUse" x1="120.51921" y1="109.8559" x2="127.85782" y2="95.65691"> <stop offset="0" style="stop-color:#000000;stop-opacity:0.9"></stop> <stop offset="0.24971" style="stop-color:#000000;stop-opacity:0.67526"></stop> <stop offset="0.67392" style="stop-color:#000000;stop-opacity:0.29347"></stop> <stop offset="1" style="stop-color:#000000;stop-opacity:0"></stop> </linearGradient> <path class="highlight" fill="url(#66c36fd9-5321-4566-808c-1b4e5a4c293e)" d="M117.62247,64h15.98332v71.99617l-15.98332-13.31722V64z" transform="translate(520.9991 -136.096904)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" opacity="0.3"></path> <path class="c2" d="M133.60579,136L82.37728,94.92859v41.06757h-15.9834V64v0.00006V64l67.21191,53.88556V136z" transform="translate(520.9991 -136.096904)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#8b8275" stroke="#8b8275"></path> </g>
+        <g id="path495134" aria-label="A" transform="translate(0 309.20312024) translate(730.3843973500001 26.33690399999999) scale(1.33) translate(-663.72851 72)"> <path class="c1" d="M139.99072,136H121.9292l-21.375-38.47742L79.18945,136H60.00928l30.95459-55.7395L100,64l9.58984,17.26221 L139.99072,136z" transform="translate(603.71923 -136)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#a2a09a" stroke="#a2a09a"></path> </g>
+            </g>
+      <image xlink:href="" id="icon" style="display: none;" x="0" y="0"></image>
+    </g>
+  </g>
+</svg>
